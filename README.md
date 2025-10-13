@@ -30,7 +30,7 @@
 
 ## 🎓 Certifications
 
-- Tableau Certified Data Analyst – Salesforce  
+- Advanced Google Data Analytics Professional Certificate 
 - Google Data Analytics Professional Certificate  
 - CFA Level 1 (In Progress)  
 
