@@ -5,7 +5,6 @@
 🔗 [GitHub][github]  
 🔗 [LinkedIn][linkedin]
 
-
 ---
 
 ## ABOUT ME
