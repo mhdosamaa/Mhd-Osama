@@ -1,72 +1,105 @@
 # Md Osama Ali  
-**Financial Data Analyst**  
-[GitHub](https://github.com/Mhd-Osama) | [LinkedIn](https://www.linkedin.com/in/mhd-osama) | 📧 mdosamaali30@gmail.com
+### Financial Data Analyst
+
+📍 Skilled in Data Analytics, Financial Modeling, and Machine Learning  
+📧 mdosamaali30@gmail.com  
+🔗 GitHub: Mhd-Osama  
+🔗 LinkedIn: Md Osama Ali
 
 ---
 
 ## 📁 Featured Projects
 
-| Project                               | Description                                                                 | Tools Used                          |
-|---------------------------------------|-----------------------------------------------------------------------------|-------------------------------------|
-| **Stock Market Analysis Dashboard**   | Time series analysis and dashboard to visualize stock trends & volatility   | Python (Pandas, Matplotlib), Tableau|
-| **Financial Risk Modeling**           | Model credit & market risk using real datasets                              | Python, Scikit-learn, Excel         |
-| **Portfolio Optimization**            | Optimize portfolio returns under risk constraints using Modern Portfolio Theory | Python, NumPy, PyPortfolioOpt       |
-| **Revenue Forecasting**               | Forecast revenue using ARIMA, Prophet, etc.                                  | Python, Statsmodels, Prophet        |
-| **Loan Data Analysis**                | Analyze loan performance, default trends & repayment behavior               | SQL, Python, Power BI               |
+| Project | Description | Tools Used |
+|--------|-------------|-------------|
+| Stock Market Analysis Dashboard | Built a time-series dashboard showing stock trends, volatility, and performance. | Python (Pandas, Matplotlib), Tableau |
+| Financial Risk Modeling | Developed models for credit and market risk using real-world datasets. | Python, Scikit-learn, Excel |
+| Portfolio Optimization | Applied MPT to optimize portfolio returns under controlled risk. | Python, NumPy, PyPortfolioOpt |
+| Revenue Forecasting | Forecasted revenue using ARIMA, Prophet & advanced time-series techniques. | Python, Statsmodels, Prophet |
+
 
 ---
 
 ## 🧠 Skills & Tools
 
-- **Data Analytics:** Data Cleaning, EDA, Visualization  
-- **Financial Analytics:** Valuation, Ratio Analysis, Forecasting, Risk Metrics  
-- **Programming Languages:** Python, R, SQL, Excel  
-- **Visualization Tools:** Tableau, Power BI  
-- **Machine Learning:** Regression, Classification, Time Series  
-- **Databases:** MySQL, PostgreSQL  
-- **Other Tools:** Git, Jupyter Notebook  
+### Data & Analytics
+- Data Cleaning, EDA, Visualization  
+- Time Series Analysis & Forecasting  
+- Financial Ratio Analysis, Valuation
+
+### Programming
+- Python, R, SQL  
+- Advanced Excel
+
+### Machine Learning
+- Regression, Classification  
+- Forecasting Models  
+- Credit & Market Risk Modeling
+
+### Visualization Tools
+- Tableau, Power BI  
+- Matplotlib, Seaborn
+
+### Databases
+- MySQL, PostgreSQL
+
+### Other Tools
+- Git, Jupyter Notebook, PyPortfolioOpt
 
 ---
 
 ## 🎓 Certifications
 
-- Advanced Google Data Analytics Professional Certificate 
+- Google Advanced Data Analytics Professional Certificate  
 - Google Data Analytics Professional Certificate  
-- CFA Level 1 (In Progress)  
+- CFA Level I (In Progress)
 
 ---
 
-## 🔍 Focus Areas
+## 📚 Key Competencies Gained from Google Advanced Data Analytics Certification
+(171+ hours of advanced training)
 
-My primary areas of focus include **Investment Analysis**, **Financial Forecasting**, **Risk Modeling**, and **Portfolio Management**.
+### 🔹 Foundations of Data Science
+- Analytical thinking & problem framing  
+- Data lifecycle, ethics & responsible data use
+
+### 🔹 Python for Data Analysis
+- Data manipulation with Pandas & NumPy  
+- Writing clean, reusable analytical code
+
+### 🔹 Translating Data Into Insights
+- Turning raw data into business insights  
+- Storytelling with data for decision-making
+
+### 🔹 Statistics & Probability
+- Descriptive & inferential statistics  
+- Hypothesis testing, confidence intervals  
+- Probability distributions & experiment design
+
+### 🔹 Regression Analysis
+- Linear & multiple regression  
+- Feature engineering & model diagnostics
+
+### 🔹 Machine Learning Foundations
+- Supervised & unsupervised ML  
+- Trees, clusters, regularization techniques  
+- Model validation & tuning
+
+### 🔹 Capstone Project
+- End-to-end ML solution using real-world data  
+- Insights presentation for stakeholders
+
+### 🔹 AI for Professional Growth
+- Leveraging AI tools for resumes, job search & communication
 
 ---
 
 ## 🚀 About Me
-
-I’m passionate about blending **finance and data science** to uncover patterns, forecast trends, and help organizations make data-driven financial decisions.
-
-**Connect with me:**  
-- GitHub: [Mhd-Osama](https://github.com/Mhd-Osama)  
-- LinkedIn: [Md Osama Ali](https://www.linkedin.com/in/mhd-osama)  
-- Email: mdosamaali30@gmail.com
+I’m a Financial Data Analyst passionate about applying data science to solve financial problems, uncover patterns, forecast trends, and support data-driven decisions. I enjoy building models and dashboards that simplify complex financial data.
 
 ---
 
-## 🏗️ Folder Structure
-
-financial-data-analyst/ │ ├── data/               # Raw & cleaned datasets
-├── notebooks/          # Jupyter / R notebooks
-├── dashboards/         # Tableau / Power BI files
-├── reports/            # PDFs, visuals, summaries
-└── README.md           # This file
-
----
-
-## 🔮 Future Goals
-
-- Build a **financial forecasting web app**  
-- Integrate **live financial APIs**  
-- Develop **AI-driven sentiment & news analysis models**  
-- Contribute open-source tools for financial analytics
-
+📬 Connect with me:  
+GitHub: Mhd-Osama  
+LinkedIn: Md Osama Ali  
+Email: mdosamaali30@gmail.com
