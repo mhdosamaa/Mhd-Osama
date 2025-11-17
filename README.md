@@ -3,9 +3,6 @@
 
 
 📧 Email: mdosamaali30@gmail.com
-🔗 [GitHub][github]
-🔗 [LinkedIn][linkedin]
-
 
 ---
 
@@ -91,14 +88,10 @@ Built forecasting models using ARIMA and Prophet to predict revenue patterns for
 ---
 
 
-## CONTACT
----
-[GitHub][github] • [LinkedIn][linkedin]
 
 
 
 
 
 
-[github]: https://github.com/Mhd-Osama
-[linkedin]: https://www.linkedin.com/in/mhd-osama/
+
