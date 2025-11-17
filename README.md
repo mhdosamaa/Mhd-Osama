@@ -1,105 +1,80 @@
-# Md Osama Ali  
+# Md Osama Ali
 ### Financial Data Analyst
 
-📍 Skilled in Data Analytics, Financial Modeling, and Machine Learning  
-📧 mdosamaali30@gmail.com  
-🔗 GitHub: Mhd-Osama  
-🔗 LinkedIn: Md Osama Ali
-
----
-
-## 📁 Featured Projects
-
-| Project | Description | Tools Used |
-|--------|-------------|-------------|
-| Stock Market Analysis Dashboard | Built a time-series dashboard showing stock trends, volatility, and performance. | Python (Pandas, Matplotlib), Tableau |
-| Financial Risk Modeling | Developed models for credit and market risk using real-world datasets. | Python, Scikit-learn, Excel |
-| Portfolio Optimization | Applied MPT to optimize portfolio returns under controlled risk. | Python, NumPy, PyPortfolioOpt |
-| Revenue Forecasting | Forecasted revenue using ARIMA, Prophet & advanced time-series techniques. | Python, Statsmodels, Prophet |
+📧 Email: mdosamaali30@gmail.com  
+🔗 [GitHub][github]  
+🔗 [LinkedIn][linkedin]
 
 
 ---
 
-## 🧠 Skills & Tools
+## ABOUT ME
+---
+I am a results‑driven Financial Data Analyst with strong expertise in transforming data into actionable insights. I specialize in financial modeling, time‑series forecasting, risk analytics, and building efficient data-driven solutions that support organizational decision-making.
 
-### Data & Analytics
-- Data Cleaning, EDA, Visualization  
-- Time Series Analysis & Forecasting  
-- Financial Ratio Analysis, Valuation
-
-### Programming
-- Python, R, SQL  
-- Advanced Excel
-
-### Machine Learning
-- Regression, Classification  
-- Forecasting Models  
-- Credit & Market Risk Modeling
-
-### Visualization Tools
-- Tableau, Power BI  
-- Matplotlib, Seaborn
-
-### Databases
-- MySQL, PostgreSQL
-
-### Other Tools
-- Git, Jupyter Notebook, PyPortfolioOpt
+I maintain a structured, analytical approach backed by statistical reasoning and clean coding practices.
 
 ---
 
-## 🎓 Certifications
+## SKILLS & TOOLS
+---
+**Data Analysis:** Data Cleaning, Exploratory Data Analysis, Feature Engineering  
+**Financial Analytics:** Forecasting, Valuation, Risk Modeling, Cost Analysis  
+**Programming:** Python, SQL, R, Advanced Excel  
+**Visualization:** Power BI, Tableau  
+**Machine Learning:** Regression, Classification, Time Series Models  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Git, Jupyter Notebook, VS Code
 
-- Google Advanced Data Analytics Professional Certificate  
+---
+
+## FEATURED PROJECTS
+---
+### Stock Market Analysis Dashboard
+Time-series analytics and interactive dashboards built to evaluate stock volatility and trend behavior.  
+*Tools:* Python (Pandas, Matplotlib), Tableau
+
+### Financial Risk Modeling
+Created predictive models to assess market and credit risk using real-world datasets.  
+*Tools:* Python, Scikit-learn, Excel
+
+### Portfolio Optimization
+Developed optimized financial portfolios using Modern Portfolio Theory for best risk–return balance.  
+*Tools:* Python, NumPy, PyPortfolioOpt
+
+### Revenue Forecasting
+Built forecasting models using ARIMA and Prophet to predict revenue patterns for strategic planning.  
+*Tools:* Python, Statsmodels, Prophet
+
+---
+
+## CERTIFICATIONS
+---
+- Advanced Google Data Analytics Professional Certificate  
 - Google Data Analytics Professional Certificate  
-- CFA Level I (In Progress)
+- CFA Level 1 — In Progress
 
 ---
 
-## 📚 Key Competencies Gained from Google Advanced Data Analytics Certification
-(171+ hours of advanced training)
-
-### 🔹 Foundations of Data Science
-- Analytical thinking & problem framing  
-- Data lifecycle, ethics & responsible data use
-
-### 🔹 Python for Data Analysis
-- Data manipulation with Pandas & NumPy  
-- Writing clean, reusable analytical code
-
-### 🔹 Translating Data Into Insights
-- Turning raw data into business insights  
-- Storytelling with data for decision-making
-
-### 🔹 Statistics & Probability
-- Descriptive & inferential statistics  
-- Hypothesis testing, confidence intervals  
-- Probability distributions & experiment design
-
-### 🔹 Regression Analysis
-- Linear & multiple regression  
-- Feature engineering & model diagnostics
-
-### 🔹 Machine Learning Foundations
-- Supervised & unsupervised ML  
-- Trees, clusters, regularization techniques  
-- Model validation & tuning
-
-### 🔹 Capstone Project
-- End-to-end ML solution using real-world data  
-- Insights presentation for stakeholders
-
-### 🔹 AI for Professional Growth
-- Leveraging AI tools for resumes, job search & communication
+## EXPERIENCE HIGHLIGHTS
+---
+- Developed predictive models to support financial planning and risk evaluation.  
+- Conducted extensive exploratory and statistical analyses for strategic insights.  
+- Designed financial dashboards for monitoring KPIs and presenting data to stakeholders.
 
 ---
 
-## 🚀 About Me
-I’m a Financial Data Analyst passionate about applying data science to solve financial problems, uncover patterns, forecast trends, and support data-driven decisions. I enjoy building models and dashboards that simplify complex financial data.
+## CAREER GOALS
+---
+- Lead complex financial analytics projects within corporate environments.  
+- Build automated forecasting and risk assessment systems.  
+- Continue developing expertise in quantitative finance and machine learning.  
+- Contribute to impactful, data-driven decision-making frameworks.
 
 ---
 
-📬 Connect with me:  
-GitHub: Mhd-Osama  
-LinkedIn: Md Osama Ali  
-Email: mdosamaali30@gmail.com
+## CONTACT
+---
+[GitHub][github] • [LinkedIn][linkedin]
+
+
