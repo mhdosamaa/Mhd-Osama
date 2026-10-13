@@ -1,109 +1,55 @@
-# Hi, I'm Md Osama Ali 👋
+Md Osama Ali
+Equity Research Analyst | Financial Modeling | Fundamental Analysis
 
-### Data Analyst | Financial Data Analytics | Junior Data Engineer
+📍 New Delhi, India | 📧 Email | 💼 LinkedIn
 
-📍 New Delhi, India &nbsp;|&nbsp; 📧 mdosamaali30@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhd-osama) &nbsp;[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/md.osama.ali) &nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdosamaali)
+About Me
 
----
+Aspiring Equity Research Analyst with a B.Tech in Computer Science from AKTU and an MA in Economics from Aligarh Muslim University. Focused on fundamental analysis, financial modeling, business valuation, and Indian equity markets. I combine financial analysis and economic research to evaluate businesses, assess industry dynamics, and develop evidence-based investment insights.
 
-## 👨‍💻 About Me
+Core Skills
+Equity Research: Company Analysis, Financial Statement Analysis, Investment Thesis, Risk Assessment
+Valuation: DCF, Comparable Company Analysis, Financial Forecasting, Sensitivity Analysis
+Industry Research: Sector Analysis, Competitor Benchmarking, Macroeconomic Analysis
+Tools: Excel, Python, Pandas, SQL, Power BI, Tableau
+Featured Projects
+1. Equity Research Report — Indian Listed Company
 
-I'm a data professional with a **B.Tech in Computer Science (AKTU)** and currently pursuing an **MA in Economics from Aligarh Muslim University**. I combine technical data engineering skills with financial and economic thinking — a rare combination that helps me build solutions that are both technically sound and business-relevant.
+Comprehensive company analysis covering business fundamentals, historical financial performance, growth drivers, key risks, valuation, and investment thesis.
 
-I'm passionate about **financial analytics**, **building ETL pipelines**, and turning raw data into clear, actionable insights.
+Tools: Excel, Python, Annual Reports
 
-- 🔭 Currently building: **Indian Stock Market ETL Pipeline**
-- 🌱 Currently learning: **IBM Data Engineering (PySpark, Data Pipelines)**
-- 💬 Ask me about: **Python, SQL, Tableau, Financial Data Analysis**
-- 📫 Reach me at: **mdosamaali30@gmail.com**
-- 🚀 Open to: **Data Analyst | Financial Analyst | Junior Data Engineer roles**
+🔗 View Project
 
----
+2. Financial Modeling & Valuation
 
-## 🛠️ Skills & Tools
+Financial forecasting and valuation model incorporating DCF, WACC, terminal value, comparable company analysis, and sensitivity analysis to estimate intrinsic value.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+Tools: Excel, Financial Modeling
 
----
+🔗 View Project
 
-## 📁 Projects
+3. Sector & Competitor Analysis
 
-### 📊 [HR Analytics Dashboard](https://public.tableau.com/app/profile/md.osama.ali)
-> Interactive HR analytics dashboard published on Tableau Public — visualizing workforce demographics, department distribution, salary bands, and hiring vs termination trends.
+Industry research comparing listed companies across financial performance, profitability, growth, competitive positioning, and valuation multiples.
 
-`Tableau` `SQL` `Excel` | 🔗 [View Live Dashboard](https://public.tableau.com/app/profile/md.osama.ali)
+Tools: Excel, Python, Power BI
 
----
+🔗 View Project
 
-### 🏦 [Largest Banks Data Extraction](https://github.com/mhdosamaa/Largest_Banks_Project)
-> Web scraping project that extracts and structures data on the world's largest banks from web sources.
+Education
+MA Economics — Aligarh Muslim University | 2026–2028
+B.Tech Computer Science — AKTU | 2021–2025
+Certifications
+Google Advanced Data Analytics Professional Certificate — Coursera
+Deloitte Australia Data Analytics Virtual Experience — Forage
+Python & Django Full Stack Bootcamp — Udemy
+Python Basics — HackerRank
+IBM Data Engineering Professional Certificate — Coursera
+Career Interests
 
-`Python` `BeautifulSoup` `Pandas`
+Equity Research Analyst | Investment Research Analyst | Financial Analyst
 
----
+📩 Contact Me | 💼 Connect on LinkedIn
 
-### 🌍 [ETL Pipeline — GDP Data Engineering](https://github.com/mhdosamaa/ETL_Project_GDP)
-> End-to-end ETL pipeline extracting country GDP data, applying transformation logic, and loading structured output for analysis.
-
-`Python` `Pandas` `ETL` `SQL`
-
----
-
-### 🎬 [Movie Data Web Scraping](https://github.com/mhdosamaa/WebScraping_movies)
-> Scrapes and structures movie data including titles, ratings, and genres for exploratory analysis.
-
-`Python` `BeautifulSoup` `Pandas`
-
----
-
-### 📈 Indian Stock Market ETL Pipeline *(In Development — May 2026)*
-> Automated pipeline extracting NSE/BSE stock data via yfinance API, storing in PostgreSQL, and visualizing trends in Power BI.
-
-`Python` `yfinance` `PostgreSQL` `Power BI`
-
----
-
-### 🇮🇳 India Macroeconomic Indicators Analysis *(In Development — June 2026)*
-> Analyzing relationships between GDP, inflation, interest rates, and market performance using RBI and World Bank data.
-
-`Python` `Pandas` `Matplotlib` `Power BI` `Economics`
-
----
-
-## 📊 GitHub Stats
-
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhdosamaa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdosamaa&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| MA Economics *(Pursuing)* | Aligarh Muslim University | 2026–2028 |
-| B.Tech Computer Science | AKTU | 2021–2025 |
-
----
-
-## 📜 Certifications
-
-- ✅ **Google Advanced Data Analytics Professional Certificate** — Coursera
-- 🔄 **IBM Data Engineering Professional Certificate** — Coursera *(In Progress)*
-- ✅ **Deloitte Australia Data Analytics Virtual Experience** — Forage
-- ✅ **Python & Django Full Stack Bootcamp** — Udemy
-- ✅ **Python Basics** — HackerRank
-
----
-
-*💼 Actively looking for Data Analyst, Financial Analyst, or Junior Data Engineer roles — feel free to reach out!*
-
+Research projects are for educational purposes only and do not constitute investment advice.
