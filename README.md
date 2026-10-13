@@ -1,55 +1,67 @@
 Md Osama Ali
-Equity Research Analyst | Financial Modeling | Fundamental Analysis
+Equity Research | Financial Modeling & Valuation | Fundamental Analysis
 
-📍 New Delhi, India | 📧 Email | 💼 LinkedIn
+📍 New Delhi, India · 📧 Email · 💼 LinkedIn
 
 About Me
 
-Aspiring Equity Research Analyst with a B.Tech in Computer Science from AKTU and an MA in Economics from Aligarh Muslim University. Focused on fundamental analysis, financial modeling, business valuation, and Indian equity markets. I combine financial analysis and economic research to evaluate businesses, assess industry dynamics, and develop evidence-based investment insights.
+I am an aspiring Equity Research Analyst with a B.Tech in Computer Science from AKTU and a background in Economics at Aligarh Muslim University.
 
-Core Skills
-Equity Research: Company Analysis, Financial Statement Analysis, Investment Thesis, Risk Assessment
-Valuation: DCF, Comparable Company Analysis, Financial Forecasting, Sensitivity Analysis
-Industry Research: Sector Analysis, Competitor Benchmarking, Macroeconomic Analysis
-Tools: Excel, Python, Pandas, SQL, Power BI, Tableau
-Featured Projects
-1. Equity Research Report — Indian Listed Company
+My focus is on fundamental research, financial statement analysis, business valuation, and the Indian equity markets. I aim to combine financial data, economic insights, and rigorous analysis to understand businesses and evaluate investment opportunities.
 
-Comprehensive company analysis covering business fundamentals, historical financial performance, growth drivers, key risks, valuation, and investment thesis.
+Areas of Expertise
+Equity Research: Company Fundamentals, Financial Statement Analysis, Investment Thesis
+Valuation: Discounted Cash Flow (DCF), Comparable Company Analysis, Financial Forecasting
+Industry Research: Sector Analysis, Peer Benchmarking, Competitive Positioning
+Technical Tools: Microsoft Excel, Python, Pandas, SQL, Power BI, Tableau
+Selected Research Projects
+01 · Equity Research Report — Indian Listed Company
 
-Tools: Excel, Python, Annual Reports
+A comprehensive research report examining business fundamentals, historical financial performance, growth drivers, risks, and valuation to develop an evidence-based investment thesis.
 
-🔗 View Project
+Company Analysis Fundamental Research Valuation
 
-2. Financial Modeling & Valuation
+🔗 Explore Research
 
-Financial forecasting and valuation model incorporating DCF, WACC, terminal value, comparable company analysis, and sensitivity analysis to estimate intrinsic value.
+02 · Financial Modeling & Valuation
 
-Tools: Excel, Financial Modeling
+A financial modeling project featuring business forecasts, DCF valuation, WACC, terminal value, comparable company analysis, and sensitivity analysis.
 
-🔗 View Project
+Financial Modeling DCF Excel
 
-3. Sector & Competitor Analysis
+🔗 Explore Financial Model
 
-Industry research comparing listed companies across financial performance, profitability, growth, competitive positioning, and valuation multiples.
+03 · Sector & Competitor Analysis
 
-Tools: Excel, Python, Power BI
+A comparative study of listed companies assessing industry dynamics, financial performance, profitability, competitive positioning, and valuation multiples.
 
-🔗 View Project
+Sector Research Peer Analysis Financial Analysis
+
+🔗 Explore Sector Research
 
 Education
-MA Economics — Aligarh Muslim University | 2026–2028
-B.Tech Computer Science — AKTU | 2021–2025
+
+M.A. Economics · Aligarh Muslim University
+2026–2028
+
+B.Tech Computer Science · Dr. A.P.J. Abdul Kalam Technical University
+2021–2025
+
 Certifications
 Google Advanced Data Analytics Professional Certificate — Coursera
 Deloitte Australia Data Analytics Virtual Experience — Forage
 Python & Django Full Stack Bootcamp — Udemy
 Python Basics — HackerRank
 IBM Data Engineering Professional Certificate — Coursera
-Career Interests
+Professional Interests
 
-Equity Research Analyst | Investment Research Analyst | Financial Analyst
+Equity Research · Investment Analysis · Financial Valuation · Indian Capital Markets
 
-📩 Contact Me | 💼 Connect on LinkedIn
+Let's Connect
 
-Research projects are for educational purposes only and do not constitute investment advice.
+Interested in equity research, financial analysis, and investment research opportunities.
+
+📧 mdosamaali30@gmail.com
+💼 Connect with me on LinkedIn
+
+All research projects are intended for educational and analytical purposes and do not constitute investment advice.
